@@ -7,7 +7,7 @@ html, body{
 	/* Background image from http://subtlepatterns.com/ */
 	text-align:center;
 	font-family: 'Montserrat', sans-serif;
-	color:DimGray;
+	color: dimgray;
 }
 
 h1, h2, h3, h4{
@@ -23,7 +23,7 @@ h2{
 }
 
 a.email{
-	color:DarkSeaGreen;
+	color:darkseagreen;
 	text-decoration:none;
 }
 
@@ -50,7 +50,7 @@ h2.title{
     padding: 30px;
 }
 .phone-number{
-	color:DarkSeaGreen;
+	color: darkseagreen;
 }
 /* -------------- Quote Styles ------------*/
 .inspirational-quote-goes-here{
